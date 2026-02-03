@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>OBERT&LEC – Les environnements connectés</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="hero">
+  <h1>OBERT&LEC</h1>
+  <p>Électricité • Dépannage • Domotique</p>
+
+  <div class="services">
+    <a href="services/depannage.html">Dépannage</a>
+    <a href="services/installation.html">Installation & rénovation</a>
+    <a href="services/normes.html">Remise aux normes</a>
+    <a href="services/domotique.html">Domotique</a>
+  </div>
+
+  <a class="call" href="tel:+33782412578">📞 Appeler</a>
+</header>
+
+<footer>
+  <p>Nicolas Obert – Rueil-Malmaison</p>
+</footer>
+
+</body>
+</html>

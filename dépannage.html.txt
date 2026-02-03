@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Dépannage – OBERT&LEC</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<h1>Dépannage électrique</h1>
+
+<form>
+  <input type="text" placeholder="Nom / Prénom"><br><br>
+  <input type="email" placeholder="Email"><br><br>
+  <input type="tel" placeholder="Téléphone"><br><br>
+  <input type="text" placeholder="Adresse"><br><br>
+
+  <textarea placeholder="Expliquez votre problème"></textarea><br><br>
+
+  <button>Envoyer</button>
+</form>
+
+<a href="../index.html">← Retour</a>
+
+</body>
+</html>
